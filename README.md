@@ -17,7 +17,7 @@ This is a simple web-based game where the user tries to guess a randomly generat
 ## 🚀 How to Run
 
 1. Clone the repository:
-              Github link:*******
+              Github link: https://github.com/sandhya-g01/Guess_the_Number
 2. Open the `index.html` file in your browser.
 
 ## 📁 Folder Structure
@@ -37,7 +37,7 @@ guess-the-number-game/
 
 ## ✨ Demo
 
-live site:
+live site:https://sandhya-g01.github.io/Guess_the_Number/
 
 ## 📬 Feedback
 
